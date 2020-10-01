@@ -5,7 +5,7 @@
  * Description: This plugin provides you different endpoints using WordPress REST API
  * Version: 1.0.0
  * Author: Vivek Tamrakar
- * Author URI: https://elicitinfotech.in
+ * Author URI: https://w3sparkstech.in
  * License: GPL2
  * Text Domain: rest-api-fns
  * Domain Path: /languages
