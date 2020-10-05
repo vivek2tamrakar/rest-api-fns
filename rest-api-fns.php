@@ -10,7 +10,7 @@
  * Text Domain: rest-api-fns
  * Domain Path: /languages
  *
- * @package WordPress Contributors
+ * 
  */
 
 // Define Constants.
