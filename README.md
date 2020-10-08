@@ -3,8 +3,8 @@
 Contributors: https://profiles.wordpress.org/vivek2tamrakar/
 Tags: wprestapi, restapi,userauthapi,wordpressapi, wordpresappdevelopmentapi
 Donate link: http://stackoverflowblog.in/
-Requires at least: 4.0
-Tested up to: 4.8
+Requires at least: 4.8
+Tested up to: 5.5.1
 Requires PHP: 5.6
 Stable tag: 1.1
 License: GPLv2 or later
